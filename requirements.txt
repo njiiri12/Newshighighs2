@@ -65,7 +65,7 @@ SQLAlchemy==1.4.23
 systemd-python==234
 
 
-unattended-upgrades==0.1
+
 urllib3==1.25.8
 
 visitor==0.1.3
